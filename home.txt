@@ -1,0 +1,54 @@
+1. Header and Hero Section
+Header: A simple, dark navigation bar at the top featuring the Shield 360 logo on the left. Navigation links include Home, About, Discover, POCSO Awareness, News, and Contact, with a green Login button on the far right.
+
+Hero Section (Primary Call to Action): A large dark blue section featuring the main tagline: "Protect Every Child".
+
+Sub-headline: "Comprehensive safety awareness, gamified learning, and emotional support for a safer tomorrow."
+
+Action Buttons: A primary button "Get Started" (with a 'plus' icon) and a secondary link "Learn More".
+
+2. Features Section
+Heading: "Our Features" is prominently centered above six dark, modular cards, each with a distinct icon and description, highlighting the core services:
+
+Safe Learning: Interactive modules teaching children about safety and boundaries. (Icon: Shield)
+
+Gamified Learning: Level-based quizzes with badges, rewards, and progress tracking. (Icon: Game Controller/Plus)
+
+AI Chatbot: Emotional support with crisis detection and helpline integration. (Icon: Robot)
+
+Camera Verification: Secure assessment with identity verification during quizzes. (Icon: Camera/Video)
+
+Legal Support: Direct access to NALSA legal aid and reporting resources. (Icon: Scales of Justice)
+
+Dashboards: Parent and teacher dashboards for progress monitoring. (Icon: Bar Chart)
+
+3. Recent News & Articles Section
+Heading: "Recent News & Articles" (Implied, as the section is clearly defined with three article cards).
+
+Content Cards: Three distinct dark cards, each labeled with a blue/green 'Article' tag, a title, a short summary, and a "Read More" button:
+
+Article 1 (POCSO Awareness): Learn about the POCSO Act and child protection laws in India... (Blue Tag)
+
+Article 2 (Protection Strategies): Effective strategies to protect children from abuse and harm... (Green Tag)
+
+Article 3 (Building the Future): How communities can work together to create safer environments... (Blue Tag)
+
+4. Community Call to Action Section
+A full-width, gradient band (moving from purple on the left to pink/magenta on the right) serves as a final appeal:
+
+Title: "Join Shield 360 Today"
+
+Subtitle: "Be part of a community dedicated to child safety and empowerment"
+
+Action Buttons: "Create Account" and "Contact Us".
+
+5. Footer
+The bottom dark footer contains essential links and contact information, organized into four columns:
+
+Shield 360: The logo/brand name.
+
+Quick Links: (List not visible, but implied links would be here).
+
+Emergency: A prominent section with an icon of a person/headset and a telephone icon next to a contact number (partially visible).
+
+Follow Us: Social media icons for Facebook, Twitter, and Instagram.
